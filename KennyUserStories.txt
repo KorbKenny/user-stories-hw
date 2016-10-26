@@ -1,0 +1,63 @@
+
+
+APP: SnapChat
+
+Test Case 1: SEND PICTURE
+	Must access the camera.
+	Can focus the camera.
+	Can flip camera to back camera.
+	Press button to take picture.
+	Must access friend list.
+	When friend is selected, check them off. Can do multiple friends.
+	Click send to send.
+	If no service, stores it and has the option to send later.
+		
+		As a user, when I open the app, the camera starts.
+		As a user, I can focus the camera if unfocused.
+		As a user, I can change which camera I’m using.
+		As a user, I can take a picture.
+		As a user, when I take the picture, I can access my friends list
+			with the click of a button.
+		As a user, I can select any amount of friends from my friends list.
+		As a user, I can send it to all the friends I selected by hitting 				send.
+		As a user, I have the option of sending later if it doesn’t send the 			first time.
+
+
+Test Case 2: USE FACE FILTER
+	Must access the camera.
+	Must read face if screen is long-clicked.
+	Can scroll through a list of filters.
+	If one is clicked, apply it to your face.
+	If another one is clicked, remove first, apply second.
+	Button that sends the picture.
+	
+		As a user, I can see that the camera is working.
+		As a user, when I long click, it shows if my face was recognized.
+		As a user, I can see the list of filters and can scroll through them.
+		As a user, I can click on a filter and it shows up on my face.
+		As a user, I can click a different filter and that one only will show 			up on my face
+		As a user, I can send that picture to someone by clicking send.
+
+
+Test Case 3: VIEW STORIES
+	Must have access to friends list.
+	Screen will show if someone has a story or not.
+	Can click on a story to view it.
+	Can adjust volume if it is a video story.
+	Can take a screenshot of the story.
+	Can click a story to end it early.
+	When the timer is done, the story is over.
+	Once a new one is viewed, it moves down to the bottom.
+		
+		As a user, I can look at my friends list.
+		As a user, I can see if a friend has a story.
+		As a user, I can click on a story, and the picture/video will appear.
+		As a user, I can adjust the volume while a story is playing.
+		As a user, I can click the power button and volume button to take a 				screenshot of the story.
+		As a user, I can click the screen to end it if I want.
+		As a user, I can wait until the timer runs out and the story will end.
+		As a user, I can find the same story at the bottom of the screen if 				I’ve viewed the story at least once.
+	
+
+ 
+
